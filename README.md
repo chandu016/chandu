@@ -1,5 +1,6 @@
 ![OOOO](https://user-images.githubusercontent.com/100261044/168702091-662b28ea-b3c0-4d0c-9fc1-6971316f7dec.jpg)
 <h1 align="center">Hi 👋, I'm D CHANDRA SHEKAR</h1>
+<h1 align="center">INSTA @prachandu016</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu016&label=Profile%20views&color=0e75b6&style=flat" alt="chandu016" /> </p>
